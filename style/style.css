@@ -20,6 +20,7 @@ html {
 }
 
 body {
+  background: hsl(210deg, 46%, 95%);
   font-family: "Barlow Semi Condensed", sans-serif;
 }
 
@@ -33,7 +34,6 @@ img {
 }
 
 .card-container {
-  background: hsl(210deg, 46%, 95%);
   width: 100vw;
   display: flex;
   justify-content: center;
