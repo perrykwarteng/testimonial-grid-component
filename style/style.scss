@@ -24,6 +24,7 @@ $text: 1.3rem;
 
 .card-container {
   background: $Light-grayish-blue;
+  height: 100%;
   width: 100vw;
   @include center();
   padding: 2.5rem;

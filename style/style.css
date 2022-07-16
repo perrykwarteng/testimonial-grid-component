@@ -34,6 +34,7 @@ img {
 
 .card-container {
   background: hsl(210deg, 46%, 95%);
+  height: 100%;
   width: 100vw;
   display: flex;
   justify-content: center;
